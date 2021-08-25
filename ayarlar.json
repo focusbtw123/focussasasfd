@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "noPerm": "Bu Komut'u kullanabilmek için `{perm}` Yetkisine sahip olmalısın.",
+    "token": "ODc5NDc4Mzg3NTE5OTMwMzg5.YSQUEw.8BiuF416w1gGUO-5FyOQsh0Q2v0",
+    "sahip": "473534610148556811",
+    "bot": {
+        "anarenk": "#D02D0A",
+        "footer": "OnenNW Resmi Discord Botu.",
+        "botadi": "Onen Network"
+    }
+}
